@@ -1,2 +1,7 @@
 # pygame
-real like motion using pygame
+**games and programs in pygame**
+
+# Installation
+```bash 
+pip install pygame 
+```
